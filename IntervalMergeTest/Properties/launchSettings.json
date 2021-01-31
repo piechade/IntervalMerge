@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IntervalMergeTest": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
