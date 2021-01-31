@@ -43,4 +43,4 @@ The Program need storage in the length of the different intervals arrays plus th
 
 Code time: 30min  
 Test time: 5min  
-Writing doc: 30min  
+Writing doc time: 30min  
